@@ -6,11 +6,13 @@ This project demonstrates the creation and deployment of a chatbot using a fine-
 1. Machine Learning Model:
 
 a. The machine learning model is built using the Hugging Face Transformers library.
+
 b. It uses the "google/flan-t5-large" model for seq2seq tasks and fine-tunes it on a custom dataset for chatbot interactions.
 
 2. LoRA Integration:
 
 a. LoRA (Learned Optimizer for Retrieval Augmentation) is integrated into the model using the peft library.
+
 b. It enhances the chatbot's responses by optimizing retrieval and generation.
 
 3. Data Preprocessing:
@@ -20,11 +22,13 @@ a. The chatbot training data is preprocessed to prepare it for fine-tuning. The 
 4. Training and Deployment:
 
 a. The model is trained using Seq2SeqTrainer with custom training arguments.
+
 b. It is then saved and pushed to the Hugging Face Model Hub for easy access.
 
 5. Streamlit Web Application:
 
 a. The chatbot is deployed as a Streamlit web application.
+
 b. Users can input text, and the chatbot generates responses using the fine-tuned model with LoRA augmentation.
 
 ## Instructions
