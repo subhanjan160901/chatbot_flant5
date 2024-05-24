@@ -56,8 +56,7 @@ Enter text in the input field and click "Generate" to interact with the chatbot.
 The chatbot will respond with informative and context-aware answers thanks to LoRA integration.
 
 ## Demo
-Demo Video : https://drive.google.com/file/d/1Esuv7dnYK3DFF9sjs-2GZO-sCghUiOIM/view?usp=sharing
-
+Demo Video : https://drive.google.com/file/d/1AfW9egrjFATf13Kd_KAFc96E3qRYqSJc/view?usp=sharing
 
 
 
